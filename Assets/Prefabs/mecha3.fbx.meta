@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: deaf210a40d13a64883305818686af40
+timeCreated: 1508229506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ankle_R
+    100002: Ankle_R 1
+    100004: Arm_L_Joint
+    100006: Arm_Left
+    100008: Arm_R
+    100010: Arm_R 1
+    100012: Arm_R_Joint
+    100014: Arm_Right
+    100016: BallJoint_R
+    100018: BallJoint_R 1
+    100020: Barrel
+    100022: Barrel 1
+    100024: Barrel6
+    100026: Barrel7
+    100028: Barrel8
+    100030: Barrel9
+    100032: Bolt1
+    100034: Bolt1 1
+    100036: Bolt10
+    100038: Bolt10 1
+    100040: Bolt11
+    100042: Bolt11 1
+    100044: Bolt12
+    100046: Bolt12 1
+    100048: Bolt13
+    100050: Bolt14
+    100052: Bolt15
+    100054: Bolt16
+    100056: Bolt17
+    100058: Bolt17 1
+    100060: Bolt18
+    100062: Bolt18 1
+    100064: Bolt19
+    100066: Bolt19 1
+    100068: Bolt2
+    100070: Bolt2 1
+    100072: Bolt20
+    100074: Bolt20 1
+    100076: Bolt21
+    100078: Bolt21 1
+    100080: Bolt22
+    100082: Bolt22 1
+    100084: Bolt23
+    100086: Bolt23 1
+    100088: Bolt24
+    100090: Bolt24 1
+    100092: Bolt25
+    100094: Bolt25 1
+    100096: Bolt26
+    100098: Bolt26 1
+    100100: Bolt27
+    100102: Bolt27 1
+    100104: Bolt3
+    100106: Bolt3 1
+    100108: Bolt4
+    100110: Bolt4 1
+    100112: Bolt5
+    100114: Bolt5 1
+    100116: Bolt6
+    100118: Bolt6 1
+    100120: Bolt7
+    100122: Bolt7 1
+    100124: Bolt8
+    100126: Bolt8 1
+    100128: Bolt9
+    100130: Bolt9 1
+    100132: Collar_L_Joint
+    100134: Collar_R_Joint
+    100136: Elbow_R
+    100138: Elbow_R 1
+    100140: Foot_L
+    100142: Foot_L_Joint
+    100144: Foot_R
+    100146: Foot_R_Joint
+    100148: Gun_L_Joint
+    100150: Gun_R_Joint
+    100152: Head
+    100154: Head 1
+    100156: Hip_L_Joint
+    100158: Hip_R_Joint
+    100160: Joint_Arm_R
+    100162: Joint_Arm_R 1
+    100164: Joint_Leg_R
+    100166: Joint_Leg_R 1
+    100168: Knee_L_Joint
+    100170: Knee_R_Joint
+    100172: Leg_L
+    100174: Leg_L_Joint
+    100176: Leg_Left
+    100178: Leg_R
+    100180: Leg_R1
+    100182: Leg_R_Joint
+    100184: Leg_Right
+    100186: Legs_Joint
+    100188: MainGun
+    100190: Mecha
+    100192: //RootNode
+    100194: pCylinder1
+    100196: Pelvis
+    100198: Pelvis 1
+    100200: Root_Joint
+    100202: Shoulder_L_Joint
+    100204: Shoulder_R
+    100206: Shoulder_R 1
+    100208: Shoulder_R_Joint
+    100210: Toe_L_Joint
+    100212: Toe_R_Joint
+    100214: Torso
+    100216: Torso_Joint
+    100218: Wire
+    100220: Wire 1
+    100222: Wire1
+    100224: Wire1 1
+    100226: Wire2
+    100228: Wire3
+    100230: Wrist_L_Joint
+    100232: Wrist_R_Joint
+    400000: Ankle_R
+    400002: Ankle_R 1
+    400004: Arm_L_Joint
+    400006: Arm_Left
+    400008: Arm_R
+    400010: Arm_R 1
+    400012: Arm_R_Joint
+    400014: Arm_Right
+    400016: BallJoint_R
+    400018: BallJoint_R 1
+    400020: Barrel
+    400022: Barrel 1
+    400024: Barrel6
+    400026: Barrel7
+    400028: Barrel8
+    400030: Barrel9
+    400032: Bolt1
+    400034: Bolt1 1
+    400036: Bolt10
+    400038: Bolt10 1
+    400040: Bolt11
+    400042: Bolt11 1
+    400044: Bolt12
+    400046: Bolt12 1
+    400048: Bolt13
+    400050: Bolt14
+    400052: Bolt15
+    400054: Bolt16
+    400056: Bolt17
+    400058: Bolt17 1
+    400060: Bolt18
+    400062: Bolt18 1
+    400064: Bolt19
+    400066: Bolt19 1
+    400068: Bolt2
+    400070: Bolt2 1
+    400072: Bolt20
+    400074: Bolt20 1
+    400076: Bolt21
+    400078: Bolt21 1
+    400080: Bolt22
+    400082: Bolt22 1
+    400084: Bolt23
+    400086: Bolt23 1
+    400088: Bolt24
+    400090: Bolt24 1
+    400092: Bolt25
+    400094: Bolt25 1
+    400096: Bolt26
+    400098: Bolt26 1
+    400100: Bolt27
+    400102: Bolt27 1
+    400104: Bolt3
+    400106: Bolt3 1
+    400108: Bolt4
+    400110: Bolt4 1
+    400112: Bolt5
+    400114: Bolt5 1
+    400116: Bolt6
+    400118: Bolt6 1
+    400120: Bolt7
+    400122: Bolt7 1
+    400124: Bolt8
+    400126: Bolt8 1
+    400128: Bolt9
+    400130: Bolt9 1
+    400132: Collar_L_Joint
+    400134: Collar_R_Joint
+    400136: Elbow_R
+    400138: Elbow_R 1
+    400140: Foot_L
+    400142: Foot_L_Joint
+    400144: Foot_R
+    400146: Foot_R_Joint
+    400148: Gun_L_Joint
+    400150: Gun_R_Joint
+    400152: Head
+    400154: Head 1
+    400156: Hip_L_Joint
+    400158: Hip_R_Joint
+    400160: Joint_Arm_R
+    400162: Joint_Arm_R 1
+    400164: Joint_Leg_R
+    400166: Joint_Leg_R 1
+    400168: Knee_L_Joint
+    400170: Knee_R_Joint
+    400172: Leg_L
+    400174: Leg_L_Joint
+    400176: Leg_Left
+    400178: Leg_R
+    400180: Leg_R1
+    400182: Leg_R_Joint
+    400184: Leg_Right
+    400186: Legs_Joint
+    400188: MainGun
+    400190: Mecha
+    400192: //RootNode
+    400194: pCylinder1
+    400196: Pelvis
+    400198: Pelvis 1
+    400200: Root_Joint
+    400202: Shoulder_L_Joint
+    400204: Shoulder_R
+    400206: Shoulder_R 1
+    400208: Shoulder_R_Joint
+    400210: Toe_L_Joint
+    400212: Toe_R_Joint
+    400214: Torso
+    400216: Torso_Joint
+    400218: Wire
+    400220: Wire 1
+    400222: Wire1
+    400224: Wire1 1
+    400226: Wire2
+    400228: Wire3
+    400230: Wrist_L_Joint
+    400232: Wrist_R_Joint
+    2300000: Joint_Leg_R
+    2300002: Joint_Leg_R 1
+    3300000: Joint_Leg_R
+    3300002: Joint_Leg_R 1
+    4300000: Head
+    4300002: Wire2
+    4300004: Wire3
+    4300006: pCylinder1
+    4300008: Barrel6
+    4300010: Barrel7
+    4300012: Barrel8
+    4300014: Barrel9
+    4300016: Arm_R
+    4300018: Joint_Arm_R
+    4300020: Shoulder_R
+    4300022: Elbow_R
+    4300024: BallJoint_R
+    4300026: Barrel
+    4300028: Bolt20
+    4300030: Bolt21
+    4300032: Bolt22
+    4300034: Bolt23
+    4300036: Bolt24
+    4300038: Bolt25
+    4300040: Bolt26
+    4300042: Bolt27
+    4300044: Arm_R
+    4300046: Joint_Arm_R
+    4300048: Shoulder_R
+    4300050: Elbow_R
+    4300052: BallJoint_R
+    4300054: Barrel
+    4300056: Bolt20
+    4300058: Bolt21
+    4300060: Bolt22
+    4300062: Bolt23
+    4300064: Bolt24
+    4300066: Bolt25
+    4300068: Bolt26
+    4300070: Bolt27
+    4300072: Bolt16
+    4300074: Bolt15
+    4300076: Bolt14
+    4300078: Bolt13
+    4300080: Pelvis
+    4300082: Torso
+    4300084: Ankle_R
+    4300086: Joint_Leg_R
+    4300088: Wire1
+    4300090: Wire
+    4300092: Bolt1
+    4300094: Bolt2
+    4300096: Bolt3
+    4300098: Bolt4
+    4300100: Bolt5
+    4300102: Bolt6
+    4300104: Bolt7
+    4300106: Bolt8
+    4300108: Bolt9
+    4300110: Bolt10
+    4300112: Bolt11
+    4300114: Bolt12
+    4300116: Bolt17
+    4300118: Bolt18
+    4300120: Bolt19
+    4300122: Foot_R
+    4300124: Leg_R1
+    4300126: Foot_L
+    4300128: Leg_L
+    4300130: Ankle_R
+    4300132: Joint_Leg_R
+    4300134: Wire1
+    4300136: Wire
+    4300138: Bolt1
+    4300140: Bolt2
+    4300142: Bolt3
+    4300144: Bolt4
+    4300146: Bolt5
+    4300148: Bolt6
+    4300150: Bolt7
+    4300152: Bolt8
+    4300154: Bolt9
+    4300156: Bolt10
+    4300158: Bolt11
+    4300160: Bolt12
+    4300162: Bolt17
+    4300164: Bolt18
+    4300166: Bolt19
+    7400000: MechWalk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ankle_R
+    13700002: Ankle_R 1
+    13700004: Arm_R
+    13700006: Arm_R 1
+    13700008: BallJoint_R
+    13700010: BallJoint_R 1
+    13700012: Barrel
+    13700014: Barrel 1
+    13700016: Barrel6
+    13700018: Barrel7
+    13700020: Barrel8
+    13700022: Barrel9
+    13700024: Bolt1
+    13700026: Bolt1 1
+    13700028: Bolt10
+    13700030: Bolt10 1
+    13700032: Bolt11
+    13700034: Bolt11 1
+    13700036: Bolt12
+    13700038: Bolt12 1
+    13700040: Bolt13
+    13700042: Bolt14
+    13700044: Bolt15
+    13700046: Bolt16
+    13700048: Bolt17
+    13700050: Bolt17 1
+    13700052: Bolt18
+    13700054: Bolt18 1
+    13700056: Bolt19
+    13700058: Bolt19 1
+    13700060: Bolt2
+    13700062: Bolt2 1
+    13700064: Bolt20
+    13700066: Bolt20 1
+    13700068: Bolt21
+    13700070: Bolt21 1
+    13700072: Bolt22
+    13700074: Bolt22 1
+    13700076: Bolt23
+    13700078: Bolt23 1
+    13700080: Bolt24
+    13700082: Bolt24 1
+    13700084: Bolt25
+    13700086: Bolt25 1
+    13700088: Bolt26
+    13700090: Bolt26 1
+    13700092: Bolt27
+    13700094: Bolt27 1
+    13700096: Bolt3
+    13700098: Bolt3 1
+    13700100: Bolt4
+    13700102: Bolt4 1
+    13700104: Bolt5
+    13700106: Bolt5 1
+    13700108: Bolt6
+    13700110: Bolt6 1
+    13700112: Bolt7
+    13700114: Bolt7 1
+    13700116: Bolt8
+    13700118: Bolt8 1
+    13700120: Bolt9
+    13700122: Bolt9 1
+    13700124: Elbow_R
+    13700126: Elbow_R 1
+    13700128: Foot_L
+    13700130: Foot_R
+    13700132: Head 1
+    13700134: Joint_Arm_R
+    13700136: Joint_Arm_R 1
+    13700138: Leg_L
+    13700140: Leg_R1
+    13700142: pCylinder1
+    13700144: Pelvis 1
+    13700146: Shoulder_R
+    13700148: Shoulder_R 1
+    13700150: Torso
+    13700152: Wire
+    13700154: Wire 1
+    13700156: Wire1
+    13700158: Wire1 1
+    13700160: Wire2
+    13700162: Wire3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MechWalk
+      takeName: mech6_smoothed_anim2
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
